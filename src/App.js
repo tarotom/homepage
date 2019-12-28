@@ -65,6 +65,7 @@ export default function PermanentDrawerLeft() {
       </Drawer>
       <main className={classes.content}>
         <div className={classes.toolbar} />
+        <img src="https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" width="100%" alt="lovely" />
       </main>
     </div>
   );
